@@ -1,0 +1,11 @@
+# Dependencies for project_2.ipynb and app.py
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+pyarrow>=14.0
+scipy>=1.11
+h5py>=3.9
+tensorflow>=2.15
+streamlit>=1.30
+scikit-learn==1.7.2
