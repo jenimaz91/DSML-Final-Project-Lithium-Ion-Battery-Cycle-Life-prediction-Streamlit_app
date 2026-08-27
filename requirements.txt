@@ -8,4 +8,3 @@ scipy>=1.11
 h5py>=3.9
 tensorflow>=2.15
 streamlit>=1.30
-scikit-learn==1.7.2
