@@ -3,7 +3,7 @@
 Predicting how long a lithium-ion cell will last using only data from its first 100 cycles — before any meaningful capacity loss is visible.
 
 Reproduction and extension of Severson et al., *Data-driven prediction of battery cycle life before capacity degradation*, **Nature Energy** 4, 383–391 (2019).
-
+StreamLit Live app: http://localhost:8501/
 ---
 **(Summary: 
  A linear model predicts battery cycle life from the first 100 cycles at 12.7% MAPE on a production run it has never seen. Gradient Boosting scored higher in cross-validation and then failed completely on that same unseen data (r² −1.389), because tree ensembles cannot extrapolate beyond their training range. The train–test gap predicted this; the cross-validated mean did not. Full results below.)**
