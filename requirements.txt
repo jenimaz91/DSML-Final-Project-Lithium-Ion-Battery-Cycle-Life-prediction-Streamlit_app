@@ -1,9 +1,9 @@
-# Dependencies for project_2.ipynb and app.py
+# Dependencies for project_notebook_final.ipynb and app.py
 
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-pyarrow>=14.0
-scipy>=1.11
-h5py>=3.9
-streamlit>=1.30
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+pyarrow
